@@ -1,0 +1,20 @@
+{
+	"material-icon-theme.folders.associations": {
+		"disabled.src": "../../../../icons/folder-studio",
+		"ReplicatedStorage": "../../../../icons/folder-replicatedstorage",
+		"ServerScriptService": "../../../../icons/folder-serverscriptservice",
+		"ServerStorage": "../../../../icons/folder-serverstorage",
+		"StarterPlayer": "../../../../icons/folder-starterplayer",
+		"StarterPlayerScripts": "../../../../icons/folder-playerscripts",
+	},
+	
+	"material-icon-theme.files.associations": {
+		"*.server.lua": "../../icons/script",
+		"*.client.lua": "../../icons/localscript",
+		"*.lua": "../../icons/modulescript",
+		"*.rbxl": "../../icons/studio",
+		"*.rbxlx": "../../icons/studio",
+		"*.rbxm": "../../icons/model",
+		"*.rbxmx": "../../icons/model"
+	}
+}
