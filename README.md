@@ -13,4 +13,6 @@ code --install-extension PKief.material-icon-theme
 
 ![Code_1pqwt229Su](https://user-images.githubusercontent.com/27824159/179254625-87cb0320-8425-41a0-bead-4e3ee6a03500.png)
 
+4) Enjoy your new explorer!
 
+![Code_SHDjU6qVCI](https://user-images.githubusercontent.com/27824159/179258146-6e29eb40-b034-45d8-b330-6ef735c22799.png)
